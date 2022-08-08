@@ -1,0 +1,3 @@
+[submodule "Sub_Repo"]
+	path = Sub_Repo
+	url = https://github.com/Akshara-333/Sub_Repo.git
